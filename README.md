@@ -4,6 +4,7 @@
   <img src="https://github.com/RJohnPaul/newsAI/blob/5de1faa521a7c5651845d2cac8d6781c6e1bb9e7/Template%20Example%20(1).png" alt="EchoNews Logo"/>
 </p>
 
+
 ## Overview
 
 EchoNews is a sophisticated AI-powered news aggregation and summarization platform that transforms how users consume digital content. Leveraging cutting-edge artificial intelligence, EchoNews automatically collects articles from diverse RSS feeds, processes them through advanced machine learning models, and delivers personalized, concise summaries tailored to individual preferences. Built on a robust architecture integrating Next.js for the frontend and FastAPI for the backend, EchoNews creates an intuitive and seamless news experience.
