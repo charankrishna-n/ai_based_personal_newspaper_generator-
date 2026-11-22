@@ -1,6 +1,5 @@
 # EchoNews: AI-Powered News Aggregation Platform
 
-
 <p align="center">
   <img src="https://github.com/RJohnPaul/newsAI/blob/5de1faa521a7c5651845d2cac8d6781c6e1bb9e7/Template%20Example%20(1).png" alt="EchoNews Logo"/>
 </p>
