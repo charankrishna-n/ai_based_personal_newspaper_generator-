@@ -1,4 +1,3 @@
-
 # EchoNews: AI-Powered News Aggregation Platform
 
 <p align="center">
