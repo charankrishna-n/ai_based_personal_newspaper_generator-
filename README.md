@@ -15,7 +15,6 @@
 
 
 
-
 ## Overview
 
 EchoNews is a sophisticated AI-powered news aggregation and summarization platform that transforms how users consume digital content. Leveraging cutting-edge artificial intelligence, EchoNews automatically collects articles from diverse RSS feeds, processes them through advanced machine learning models, and delivers personalized, concise summaries tailored to individual preferences. Built on a robust architecture integrating Next.js for the frontend and FastAPI for the backend, EchoNews creates an intuitive and seamless news experience.
